@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Paul Navarre!
 - 👀 I’m interested in video editing, computer programming, sports, working out, and music.
 - 🌱 I’m currently learning Pseudocode/JavaScript and Python
+- 🔭 I’m currently working on ... JavaScript
 - 💞️ I’m looking to collaborate on almost anything!
-- 📫 How to reach me pnavarrebusiness@gmail.com
+- ⚡️ Fun fact: I own a local lawn care business, founded entirely by me!
+- 📫 How to reach me: pnavarrebusiness@gmail.com
+
 
 <!---
 pnavarre2330/pnavarre2330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
