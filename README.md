@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul Navarre!
+- 👋 Hi, I’m Paul Navarre! (npaul.carrd.co)
 - 👀 I’m interested in video editing, computer programming, sports, working out, and music.
 - 🌱 I’m currently learning Web Development
 - 👨🏻‍💻 In the future I plan to... learn Python
